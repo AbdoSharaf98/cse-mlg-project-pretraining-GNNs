@@ -8,5 +8,5 @@ Preliminary analyses of this approach on the [OGB-MolPCBA dataset](https://ogb.s
 
 ![](./latents.png)
 
-    Effect of similarity matching on learned graph embeddings. PC features of graph embeddings are shown (a) before and (b) after pretraining with similarity matching.
+*Effect of similarity matching on learned graph embeddings. PC features of graph embeddings are shown (a) before and (b) after pretraining with similarity matching.*
 
