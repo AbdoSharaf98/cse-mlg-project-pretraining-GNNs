@@ -7,5 +7,6 @@ This repository contains the code for a GNN pretraining approach I developed for
 Preliminary analyses of this approach on the [OGB-MolPCBA dataset](https://ogb.stanford.edu/docs/graphprop/#ogbg-mol) show advantages in terms of building structured representations in the embedding space that are well-separated based on their scaffold structure, as shown below. 
 
 ![](./latents.png)
-*Effect of similarity matching on learned graph embeddings. PC features of graph embeddings are shown (a) before and (b) after pretraining with similarity matching.
+
+    Effect of similarity matching on learned graph embeddings. PC features of graph embeddings are shown (a) before and (b) after pretraining with similarity matching.
 
